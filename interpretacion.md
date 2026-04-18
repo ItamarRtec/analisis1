@@ -65,7 +65,3 @@ La verificación de actas (que se está realizando en `analysis/analysis2/`) ser
 Los resultados del análisis heurístico de micro-fraude revelan una **concentración preocupante** de anomalías estadísticas a favor de JUNTOS POR EL PERÚ. Aunque no es prueba concluyente, la magnitud, frecuencia y consistencia de las desviaciones establecen una **prioridad alta de auditoría documental**. La fase de verificación de actas en analysis2 debe ser exhaustiva y transparente.
 
 ---
-
-**Archivo creado:** `analysis/analysis1/interpretacion.md`
-
-Puedes abrirlo directamente. ¿Quieres que lo modifique (más fuerte, más cauteloso, agregar más datos de Benford o Klimek, o cambiar el título)?
