@@ -1,0 +1,28 @@
+# Environment variables
+.env
+DATABASE_URL
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Large data files - should be generated locally
+store/data/*.csv
+store/data/mesa_completa.csv
+store/data/mesa_votos.csv
+store/data/mesa_timeline.csv
+store/data/mesas_geo.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,4 @@
+codigo_mesa,departamento,provincia,distrito,participacion_pct,electores_habiles,votos_emitidos,total_validos,winner_party,winner_votes,winner_share_pct,winner_margin_pct,suspicious_party,suspicious_party_share_pct,suspicious_party_z,baseline_mean_share_pct,baseline_source,estimated_excess_votes,winner_last_digit,score,flag_top_0_2_pct,onpe_metadata_ok
+903371,LORETO,DATEM DEL MARAÑÓN,BARRANCA,72.64,106,77,66,JUNTOS POR EL PERÚ,62,93.94,92.42,JUNTOS POR EL PERÚ,93.94,7.516,10.69,distrito,54.94,2,18.1258,True,False
+900692,APURÍMAC,ANDAHUAYLAS,ANDAHUAYLAS,95.24,168,160,118,JUNTOS POR EL PERÚ,102,86.44,83.05,JUNTOS POR EL PERÚ,86.44,3.7825,32.43,distrito,63.74,2,17.2277,True,False
+902219,HUÁNUCO,HUAMALIES,MIRAFLORES,87.65,81,71,54,JUNTOS POR EL PERÚ,39,72.22,64.81,JUNTOS POR EL PERÚ,72.22,9.7566,2.63,distrito,37.58,9,15.5534,True,False

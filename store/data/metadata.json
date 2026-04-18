@@ -1,0 +1,28 @@
+{
+  "exportado_at": "2026-04-18T16:45:20.467722+00:00",
+  "db": "local",
+  "archivos": {
+    "mesas_geo.csv": "92,766 filas — geografía completa de cada mesa",
+    "mesa_timeline.csv": "226,003 filas — eventos de estado (T/D/C/H/E/J) por mesa",
+    "mesa_votos.csv": "3,432,004 filas — votos por partido por mesa",
+    "mesa_completa.csv": "92,766 filas — JOIN: geo + contabilización + votos pivoteados"
+  },
+  "estadisticas": {
+    "total_mesas_geo": 92766,
+    "contabilizadas_geo": 86664,
+    "pendientes_geo": 343,
+    "enviadas_geo": 5759,
+    "timeline_eventos": 226003,
+    "timeline_contabilizadas": 86554,
+    "timeline_digitacion": 64064,
+    "timeline_digitalizacion": 63812,
+    "timeline_observadas": 5732,
+    "timeline_para_envio_jee": 5770,
+    "votos_registros": 3432004,
+    "mesas_con_votos": 86668,
+    "partidos_unicos": 41,
+    "departamentos": 30,
+    "provincias": 273,
+    "distritos": 1928
+  }
+}
